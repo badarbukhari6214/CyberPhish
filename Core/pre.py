@@ -24,9 +24,9 @@ banner = f"""
 	/ /___/ /_/ / /_/ /  __/ /     / ____/ / / / (__  ) / / /
 	\____/\__, /_.___/\___/_/     /_/   /_/ /_/_/____/_/ /_/ 
 		 /____/      \n
-			</> Author: Badar Bukhari | Cyber Dioxide
-                        Learn Hacking Follow Me On Social Media
-			Instagram: @syedzadabadar
+		</> Author: Badar Bukhari | Cyber Dioxide
+                Learn Hacking Follow Me On Social Media
+		Instagram: @syedzadabadar
 
 	===========================================================
 			Telegram @badarbukhari211
